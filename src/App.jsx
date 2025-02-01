@@ -1,7 +1,7 @@
 import {useEffect, useState} from "react";
 import UserData from "./components/UserData.jsx";
 
-const API = "https://jsonplaceholder.typicode.com/users";
+const API = "https://l2elite.us/raidboss/index.php?TimeOffset=-120";
 
 const App = () => {
     const [users, setUsers] = useState([]);
